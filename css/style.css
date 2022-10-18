@@ -216,3 +216,13 @@ img {
   line-height: 101.3%;
   color: #000000;
 }
+
+/* footer */
+
+.footer__content {
+  padding: calc(var(--size) * 2.4) calc(var(--size) * 5);
+  font-size: calc(var(--size) * 1);
+  line-height: 101.3%;
+  color: #999;
+  text-align: center;
+}
