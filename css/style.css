@@ -2,6 +2,12 @@
   --size: 1vw;
 }
 
+@media(min-width: 1280px) {
+  :root {
+    --size: 12px;
+  }
+}
+
 html {
   box-sizing: border-box;
 }
