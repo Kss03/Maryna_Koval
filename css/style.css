@@ -4,7 +4,11 @@
 
 @media(min-width: 1280px) {
   :root {
-    --size: 12px;
+    --size: 10px;
+  }
+
+  .container {
+    max-width: 1180px;
   }
 }
 
